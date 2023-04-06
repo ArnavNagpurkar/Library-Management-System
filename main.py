@@ -14,7 +14,7 @@ authors = []
 class Library:
 
     # Start code
-    def start(self):
+    def __init__(self):
         print("1. Add book")
         print("2. View added books")
         print("3. Remove a book")
@@ -63,7 +63,7 @@ class Library:
 library = Library()
 
 # start code execution
-library.start()
+# automatic start due to --> __init__
 
 # if adding a book
 if library.choice == 1:
