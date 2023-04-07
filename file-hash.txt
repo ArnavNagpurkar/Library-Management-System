@@ -1,0 +1,8 @@
+When you will download "application.exe" of official release of "Library Management System 1.0",
+The hash should be exactly same as given below:
+
+Algorithm       Hash                                                                                              
+---------       ----                                                                                             
+SHA256          775A4EC8CA1699A761624EC54BA91313B8FE9AA6F499568917E0DD158F1D5765       
+
+Please check the Hash After downloading for confirming that you got REAL file or not!
